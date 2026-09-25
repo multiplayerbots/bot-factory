@@ -1,6 +1,6 @@
 # Bot Painter Compare Opus 5.5 vs Opus 5
 
-Link to create new bot: https://ql.app/l/ddPq6xkg
+Link to create new bot: https://ql.app/l/GPj3LGXQ
 
 Runs Bot Painter on two bots, one on Opus 5 and one on Opus 5.5, for a given X profile. After 25 minutes it compares their approaches and painting quality, then merges both painting videos into one stacked 1080x1920 video.
 

@@ -1,6 +1,6 @@
 # Bot Painter
 
-Link to create new bot: https://ql.app/l/aLm0fMNz
+Link to create new bot: https://ql.app/l/dvWVW5Ba
 
 A test of aesthetics and visual perception. The bot paints a portrait of the person in a given X profile picture, live on its VM desktop, using only Python and a browser. No image-generation or style-transfer models. It records the painting and hands over the final PNG, an MP4 of the process, and a short brief.
 

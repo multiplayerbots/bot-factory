@@ -8,8 +8,8 @@ Each bot below has a link that opens a new bot with its prompt ready to send. Op
 
 | Bot | What it does | Try it |
 |---|---|---|
-| [Bot Painter](bot-painter/) | Paints a portrait from an X profile picture, live on its VM desktop, using only Python and a browser. | [Create bot](https://ql.app/l/aLm0fMNz) |
-| [Bot Painter Compare Opus 5.5 vs Opus 5](bot-painter-compare-opus-5-5-vs-opus-5/) | Runs Bot Painter on Opus 5 and Opus 5.5 for the same X profile, compares the results, and merges both videos. | [Create bot](https://ql.app/l/ddPq6xkg) |
+| [Bot Painter](bot-painter/) | Paints a portrait from an X profile picture, live on its VM desktop, using only Python and a browser. | [Create bot](https://ql.app/l/dvWVW5Ba) |
+| [Bot Painter Compare Opus 5.5 vs Opus 5](bot-painter-compare-opus-5-5-vs-opus-5/) | Runs Bot Painter on Opus 5 and Opus 5.5 for the same X profile, compares the results, and merges both videos. | [Create bot](https://ql.app/l/GPj3LGXQ) |
 
 ## What is in each bot directory
 
